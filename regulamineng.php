@@ -75,30 +75,30 @@
 	<!-- GŁÓWNY CONTAINER -->
 	<div id="container_koszyk">
 		
-		<h1>Alledrogo User Agreement:</h1>
+		<h1>Charytatywnie User Agreement:</h1>
 		
 		<div id="regulamin_container">
 				<div id="regulamin">
 				<a href="regulamin.php">Polish version</a><br><br>
 					<h3>PRIVACY AND CONFIDENTIALITY</h3><br>
 
-<p>1.Personal data provided by Users in designated areas shall be processed by Alledrogo pursuant to the applicable provisions of law and the privacy policy.</p><br>
+<p>1.Personal data provided by Users in designated areas shall be processed by Charytatywnie pursuant to the applicable provisions of law and the privacy policy.</p><br>
 
 <p>2.Users’ personal data may be disclosed to other Users only in the cases set forth herein for purposes related to the Transactions and in other cases with prior consent of the data subject.</p><br>
 
-<p>3.A User shall not disclose to third parties any information related to other Users received from Alledrogo in connection with the use of Alledrogo, unless the User has obtained prior consent of the User who is the data subject. In particular, the use of such information for commercial purposes, in particular to promote in any form the activities of any User carried out outside Alledrogo shall be prohibited.</p><br>
+<p>3.A User shall not disclose to third parties any information related to other Users received from Charytatywnie in connection with the use of Charytatywnie, unless the User has obtained prior consent of the User who is the data subject. In particular, the use of such information for commercial purposes, in particular to promote in any form the activities of any User carried out outside Charytatywnie shall be prohibited.</p><br>
 
-<p>4.The use of the information referred to in Article 3, for commercial purposes to promote in any form the activities of any User carried out outside Alledrogo shall be prohibited. In particular the following shall be prohibited:</p>
+<p>4.The use of the information referred to in Article 3, for commercial purposes to promote in any form the activities of any User carried out outside Charytatywnie shall be prohibited. In particular the following shall be prohibited:</p>
 
-<p>a) making proposals to buy or sell the Item outside Alledrogo;</p>
+<p>a) making proposals to buy or sell the Item outside Charytatywnie;</p>
 
-<p>b) adding to the shipped Item or providing in any other form any content with information about commercial activities carried out outside Alledrogo (e.g. leaflets advertising an online store);</p>
+<p>b) adding to the shipped Item or providing in any other form any content with information about commercial activities carried out outside Charytatywnie (e.g. leaflets advertising an online store);</p>
 
 <p>c) opening accounts for Users in online stores.</p><br>
 
-<p>5.Alledrogo reserves the right to filter and block messages sent by Users using the tools made available on Alledrogo, in particular if they are spam, include content that violates this User Agreement or otherwise pose a risk to the safety of Users.</p><br>
+<p>5.Charytatywnie reserves the right to filter and block messages sent by Users using the tools made available on Charytatywnie, in particular if they are spam, include content that violates this User Agreement or otherwise pose a risk to the safety of Users.</p><br>
 
-<p>6.Ended Listings may be published in archiwum.alledrogo.pl subdomain. Published information is for reference only and Alledrogo may not ensure or guarantee that ended Listings will be made public in a full and comprehensive manner.</p><br>
+<p>6.Ended Listings may be published in archiwum.charytatywnie.pl subdomain. Published information is for reference only and Charytatywnie may not ensure or guarantee that ended Listings will be made public in a full and comprehensive manner.</p><br>
 
 
 				</div>

@@ -75,7 +75,7 @@
 	<!-- GŁÓWNY CONTAINER -->
 	<div id="container_koszyk">
 		
-		<h1>Regulamin alledrogo:</h1>
+		<h1>Regulamin Charytatywnie:</h1>
 		
 		<div id="regulamin_container">
 				<div id="regulamin">
@@ -83,23 +83,23 @@
 
 					<h3>PRYWATNOŚĆ I POUFNOŚĆ</h3><br>
 
-					<p>1.Dane osobowe podane przez Użytkowników w miejscach do tego przeznaczonych, Alledrogo przetwarza zgodnie z obowiązującymi przepisami prawa oraz zgodnie z polityką prywatności.</p><br>
+					<p>1.Dane osobowe podane przez Użytkowników w miejscach do tego przeznaczonych, Charytatywnie przetwarza zgodnie z obowiązującymi przepisami prawa oraz zgodnie z polityką prywatności.</p><br>
 
 					<p>2.Użytkownikom ujawniane są dane osobowe innych Użytkowników jedynie w przypadkach przewidzianych w Regulaminie w celach związanych z przeprowadzaniem Transakcji oraz w innych przypadkach, za uprzednią zgodą osoby, której dane dotyczą.</p><br>
 
-					<p>3.Użytkownik zobowiązany jest nie ujawniać osobom trzecim informacji dotyczących innych Użytkowników, które otrzymał od Alledrogo w związku z korzystaniem z Alledrogo, chyba że uzyskał uprzednią zgodę od Użytkownika, którego dane dotyczą. W szczególności zabronione jest wykorzystywanie przedmiotowych informacji w celach komercyjnych polegających, w szczególności na promowaniu w jakiejkolwiek formie działalności Użytkownika prowadzonej poza Alledrogo.</p><br>
+					<p>3.Użytkownik zobowiązany jest nie ujawniać osobom trzecim informacji dotyczących innych Użytkowników, które otrzymał od Charytatywnie w związku z korzystaniem z Charytatywnie, chyba że uzyskał uprzednią zgodę od Użytkownika, którego dane dotyczą. W szczególności zabronione jest wykorzystywanie przedmiotowych informacji w celach komercyjnych polegających, w szczególności na promowaniu w jakiejkolwiek formie działalności Użytkownika prowadzonej poza Charytatywnie.</p><br>
 
-					<p>4.Zabronione jest wykorzystywanie informacji, o których mowa w art. 3, w celach komercyjnych polegających na promowaniu w jakiejkolwiek postaci działalności Użytkownika prowadzonej poza Alledrogo. W szczególności zabronione jest:</p>
+					<p>4.Zabronione jest wykorzystywanie informacji, o których mowa w art. 3, w celach komercyjnych polegających na promowaniu w jakiejkolwiek postaci działalności Użytkownika prowadzonej poza Charytatywnie. W szczególności zabronione jest:</p>
 
-					<p>a) składanie propozycji zakupu lub sprzedaży Towaru poza Alledrogo;</p>
+					<p>a) składanie propozycji zakupu lub sprzedaży Towaru poza Charytatywnie;</p>
 
-					<p>b) dołączanie do wysyłanego Towaru lub dostarczanie w jakiejkolwiek innej formie treści zawierających informację o działalnościkomercyjnej prowadzonej poza Alledrogo (na przykład ulotek reklamujących sklep internetowy);</p>
+					<p>b) dołączanie do wysyłanego Towaru lub dostarczanie w jakiejkolwiek innej formie treści zawierających informację o działalnościkomercyjnej prowadzonej poza Charytatywnie (na przykład ulotek reklamujących sklep internetowy);</p>
 
 					<p>c) zakładanie Użytkownikom kont w sklepach internetowych.</p><br>
 
-					<p>5.Alledrogo zastrzega sobie prawo do filtrowania i zatrzymywania wiadomości wysyłanych przez Użytkowników w ramach narzędzi udostępnionych w Alledrogo, w szczególności jeśli mają charakter spamu, zawierają treści naruszające niniejszy Regulamin lub w inny sposób zagrażają bezpieczeństwu Użytkowników.</p><br>
+					<p>5.Charytatywnie zastrzega sobie prawo do filtrowania i zatrzymywania wiadomości wysyłanych przez Użytkowników w ramach narzędzi udostępnionych w Charytatywnie, w szczególności jeśli mają charakter spamu, zawierają treści naruszające niniejszy Regulamin lub w inny sposób zagrażają bezpieczeństwu Użytkowników.</p><br>
 
-					<p>6.Zakończone Oferty mogą być publikowane w subdomenie archiwum.alledrogo.pl. Publikowane informacje mają jedynie charakter poglądowy, a Alledrogo nie zapewnia i nie gwarantuje pełnego oraz kompleksowego upubliczniania informacji o zakończonych Ofertach.</p><br>
+					<p>6.Zakończone Oferty mogą być publikowane w subdomenie archiwum.charytatywnie.pl. Publikowane informacje mają jedynie charakter poglądowy, a Charytatywnie nie zapewnia i nie gwarantuje pełnego oraz kompleksowego upubliczniania informacji o zakończonych Ofertach.</p><br>
 
 				</div>
 			<br><br>
