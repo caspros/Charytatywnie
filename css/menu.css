@@ -1,0 +1,103 @@
+#centeredmenu {
+   font-style: normal;
+   float:left;
+   width:100%;
+   overflow:hidden;
+   position:relative;
+   padding-bottom: 1rem;
+}
+
+#centeredmenu ul {
+   clear:left;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:0;
+   position:relative;
+   left:50%;
+   text-align:center;
+}
+
+#centeredmenu ul li {
+   display:block;
+   float:left;
+   list-style:none;
+   margin:0;
+   padding:10px;
+   position:relative;
+   right:50%;
+}
+
+#centeredmenu ul li a {
+   display:block;
+   margin:0 0 0 0px;
+   padding:0.4rem 0.8rem 0.4rem;
+   background-color: #ECEFF1;
+   color: black;
+   text-decoration:none;
+   line-height:1.3em;
+   border-radius: 0.7rem;
+}
+
+#centeredmenu ul li a:hover {
+  background-color: #FF5A00;
+  color: white;
+}
+
+/* NOWE MENU KATEGORIE*/
+#nav ul {
+  z-index: 1;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #444;
+}
+
+#nav li {
+  float: left;
+  position: relative;
+  left: 30%;
+}
+
+#nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#nav li a:hover {
+  background-color: #111;
+}
+
+.search_button {
+	margin-left: 10px;
+	float: left;
+	background-color: #FF5A00;
+	color: white;
+	border: none;
+	text-align: center;
+  	text-decoration: none;
+  	font-size: 16px;
+}
+
+.search_button:hover{
+  float: right;
+	background-color: #ff8800;
+}
+
+.search_input{
+	width: 400px;
+}
+
+.form_inline{
+	position: absolute;
+  	align-items: center;
+  	display: flex;
+  }
+
+.form_inline2{
+    display: flex;
+  }
