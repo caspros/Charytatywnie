@@ -74,7 +74,7 @@
 					<br><br>
 					<details>
 					    <summary><strong>Pytanie 1:</strong> Jestem tutaj nowy/(a), gdzie mogę stworzyć sobie konto?</summary>
-					    <br><strong>Odpowiedź 1:</strong> W prawym górnym rogu strony, znajduje się opcja nazwana "Zaloguj się". Po jej wybraniu zostaniesz przeniesiony na nowe okno w którym widnieje formularz "Logowanie". Pod nim natomiast widnieje opcja "Nie posiadasz konta? Zarejestruj się!". Po kilknięciu na nią, zostajesz przeniesiony do formularza "Rejestracja", gdzie po podaniu Imienia, Nazwiska, Emailu, Hasła, akcpetacji regulaminu oraz przyciśnięciu guzika "Zarejestruj", utworzysz nowe konto w naszym serwisie. Otrzymasz komunikat o powodzeniu operacji i możliwość powrotu na stronę główną, gdzie możesz się już zalogować jako użytkownik serwisu i wziąć udział w licytacjach. W razie problemów z zalogowaniem, zalecamy przeczytanie Pytania Nr. 2. 
+					    <br><strong>Odpowiedź 1:</strong> W prawym górnym rogu strony, znajduje się opcja nazwana "Zaloguj się". Po jej wybraniu zostaniesz przeniesiony na nowe okno w którym widnieje formularz "Logowanie". Pod nim natomiast widnieje opcja "Nie posiadasz konta? Zarejestruj się!". Po kilknięciu na nią, zostajesz przeniesiony do formularza "Rejestracja", gdzie po podaniu Imienia, Nazwiska, Emailu, Hasła, akcpetacji regulaminu oraz przyciśnięciu guzika "Zarejestruj", utworzysz nowe konto w naszym serwisie. Otrzymasz komunikat o powodzeniu operacji i możliwość powrotu na stronę główną, gdzie możesz się już zalogować jako użytkownik serwisu i korzystać z naszych bogatych ofert. W razie problemów z zalogowaniem, zalecamy przeczytanie Pytania Nr. 2. 
 					</details>
 
 					<br><br>
@@ -95,8 +95,8 @@
 
 
 					<details>
-					    <summary><strong>Pytanie 4:</strong> Gdzie mogę zobaczyć listę aukcji, w których biorę udział?</summary>
-					<br><strong>Odpowiedź 4:</strong> Wszystkie aukcje, w których klient bierze udział, można zobaczyć po kliknięciu w opcję "Aktualne licytacje" w górnej części strony, koło opcji "Wyloguj". Dla wygody naszych użytkowników, możliwość wejścia w Aktualne licytacje, jest dostępna z każdego miejsca naszej strony. W zakładce pojawi się też informacja, gdy oferta za licytacje zostanie przebita.
+					    <summary><strong>Pytanie 4:</strong> Gdzie mogę zobaczyć listę produktów, które dodałem/(am) do koszyka?</summary>
+					<br><strong>Odpowiedź 4:</strong> Wszystkie produkty, które zostały dodane do koszyka, można zobaczyć po kliknięciu w opcję "Koszyk" w górnej części strony, koło opcji "Wyloguj". Dla wygody naszych użytkowników, możliwość wejścia w koszyk, jest dostępna z każdego miejsca naszej strony. Gdy jesteś przekonany/(na) o doborze wybranych produktów i chęci ich nabycia, kliknij przycisk "Załóż zamówienie".
 					</details>
 
 					<br><br>

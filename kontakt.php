@@ -82,6 +82,7 @@
 					<p><strong>Członkowie projektu:</strong></p>
 					<p>Kacper Śledzik</p>
 					<p>Aleksander Szuba</p>
+					<p>Armand Gadecki</p>
 				</div>
 			<br><br>
 			

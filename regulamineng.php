@@ -98,7 +98,7 @@
 
 <p>5.Charytatywnie reserves the right to filter and block messages sent by Users using the tools made available on Charytatywnie, in particular if they are spam, include content that violates this User Agreement or otherwise pose a risk to the safety of Users.</p><br>
 
-<p>6.Ended Listings may be published in archiwum.charytatywnie.pl subdomain. Published information is for reference only and Charytatywnie may not ensure or guarantee that ended Listings will be made public in a full and comprehensive manner.</p><br>
+<p>6.Ended Listings may be published in archiwum.alledrogo.pl subdomain. Published information is for reference only and Charytatywnie may not ensure or guarantee that ended Listings will be made public in a full and comprehensive manner.</p><br>
 
 
 				</div>
