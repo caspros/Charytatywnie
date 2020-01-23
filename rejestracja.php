@@ -1,5 +1,15 @@
 <?php
 session_start();
+if ((isset($_SESSION['zalogowany'])) && ($_SESSION['zalogowany']==true))
+{
+	$_SESSION['wyloguj'] = "Wyloguj";
+	unset($_SESSION['zaloguj']);
+	header('Location: index.php');
+	exit();
+} else {
+	$_SESSION['zaloguj'] = "Zaloguj";
+	unset($_SESSION['wyloguj']);
+}
 
 if (isset($_POST['email']))
 {
@@ -180,12 +190,12 @@ if (isset($_POST['email']))
 	    <a href="index.php" class="active">charytatywnie</a>
 	    
 		<?php
-						if (isset($_SESSION['zaloguj']))
-						{
-							echo '<a href="logowanie.php">'.$_SESSION['zaloguj'].'</a>';
-						} else{
-							echo '<a href="wyloguj.php">'.$_SESSION['wyloguj'].'</a>';
-						}
+			if (isset($_SESSION['zaloguj']))
+			{
+				echo '<a href="logowanie.php">'.$_SESSION['zaloguj'].'</a>';
+			} else{
+				echo '<a href="wyloguj.php">'.$_SESSION['wyloguj'].'</a>';
+			}
 		?>
 	    <a href="koszyk.php">Aktualne licytacje</a>
 		<a href="zamowienia.php">Wygrane licytacje</a>
