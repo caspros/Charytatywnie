@@ -269,10 +269,7 @@
 			echo '<br>
 				<div id="podsumowanie">
 					Łącznie na licytacjach: '.$suma.' PLN<br><br>';
-		       		echo '<form action="skladanie_zam.php" method="post">
-							<input type="hidden" name="suma" value="'.$suma.'" />
-							<input type="submit" id="kup_teraz" name="zloz_zam" value="Złóż zamówienie">
-						</form>
+		       		echo '
 				</div>';
 		} else { echo '<div class="error" style="text-align:center;">Aktualnie nie bierzesz udziału w żadnej licytacji</div>'; }
 		
