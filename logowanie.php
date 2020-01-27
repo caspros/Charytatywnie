@@ -3,12 +3,15 @@
 	
 	if ((isset($_SESSION['zalogowany'])) && ($_SESSION['zalogowany']==true))
 	{	
+		$_SESSION['wyloguj'] = "Wyloguj";
+		unset($_SESSION['zaloguj']);
 		header('Location: index.php');
 		exit();
 	}
 
 	if (isset($_SESSION['wyloguj']))
 	{
+		$_SESSION['zaloguj'] = "Zaloguj";
 		unset($_SESSION['wyloguj']);
 		session_unset();
 		header('Location: index.php');

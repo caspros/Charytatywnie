@@ -101,11 +101,6 @@
 
 					<br><br>
 
-					<details>
-					    <summary><strong>Pytanie 5:</strong> Chcę ocenić wasz serwis, jest taka możliwość?</summary>
-					<br><strong>Odpowiedź 5:</strong> Naturalnie. Zalogowani użytkownicy mogą oceniać i zakupione produkty, jak i nasz sklep. Opcję służące do tego znajdują się w menu w górnej części strony. Po kliknięciu interesującej nasz opcji, pojawia się formularz oceny. Będziemy wdzięczni za opinie i komenarze. Najlepsze z nich wyświetlimy na stronie głównej.
-					</details>
-
 				</div>
 			<br><br>
 			
