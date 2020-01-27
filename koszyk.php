@@ -246,10 +246,6 @@
 					       				</div>
 					       			</td>
 						       		<td>
-						       			<form action="#" method="post">
-							       			<input type="hidden" name="id_kosz" value="'.$row["id_koszyk"].'" />
-							       			<input type="submit" name="delete" class="deleteBtn" value="Usuń">
-							       		</form>
 						       		</td>
 						       		<tr>
 						       			<td colspan="2">
@@ -312,14 +308,5 @@
 				}
 			}
 		}
-	}
-
-	//Usuwanie z koszyka
-	if(isset($_POST['id_kosz']))
-	{
-		$id = $_POST['id_kosz'];
-		$sql_d= "DELETE FROM koszyk WHERE id_koszyk = '$id'";
-		$result = $conn -> query($sql_d);
-		echo "<meta http-equiv='refresh' content='0'>";
 	}
 ?>
