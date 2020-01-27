@@ -52,18 +52,28 @@
 	<div class="topnav" id="myTopnav">
 
 	    <a href="index.php" class="active">charytatywnie</a>
-	    
-		<?php
-						if (isset($_SESSION['zaloguj']))
-						{
-							echo '<a href="logowanie.php">'.$_SESSION['zaloguj'].'</a>';
-						} else{
-							echo '<a href="wyloguj.php">'.$_SESSION['wyloguj'].'</a>';
-						}
-		?>
+
+	    <a href="wyloguj.php">Wyloguj</a>
+		<a href="logowanie.php">Zaloguj</a>
+						
 	    <a href="koszyk.php">Aktualne licytacje</a>
 		<a href="zamowienia.php">Wygrane licytacje</a>
 		<a href="profil.php">Ustawienia</a>
+		<a href="#">
+			<?php
+				if ((isset($_SESSION['zalogowany'])) && ($_SESSION['zalogowany']==true))
+				{
+					echo "Witaj, ".$_SESSION['imie'];
+				}
+			?>
+		</a>
+		
+		<a class="forma">
+		  	<form action="wyszukaj.php" method="get" class="form_inline2">
+						<input type="text" name="search_input" class="search_input" placeholder="Wyszukaj licytację...">
+						<input type="submit" name="search_button" class="search_button" value="SZUKAJ">
+			</form>
+		</a>
 	   
 	  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
 	    <i class="fa fa-bars"></i>
